@@ -4,6 +4,4 @@ let prepender = function(name) {
 	return 'My name is: '+name;
 };
 
-let newArray = names.map(prepender)
 // Your code here
-console.log(newArray)
