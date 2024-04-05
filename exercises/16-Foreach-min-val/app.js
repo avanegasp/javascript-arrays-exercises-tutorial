@@ -3,7 +3,6 @@ let myArray = [3344,34334,454543,342534,4563456,3445,23455,234,262,2335,43323,43
 let min = myArray[0]
 // Your code here
 myArray.forEach((number)=>{
-  
   if(number < min){
     min = number
   }
